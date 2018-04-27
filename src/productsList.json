@@ -1,0 +1,44 @@
+[
+    {
+       "id": 1,
+       "product": "LAPTOP",
+       "price": "25000",
+       "image" : "/app/images/laptop_image.jpg"
+    },
+    {
+       "id": 2,
+       "product": "TV",
+       "price": "20000",
+       "image" : "/app/images/tv_image.jpg"
+    },
+    {
+       "id": 3,
+       "product": "CHAIR",
+       "price": "5000",
+       "image" : "/app/images/chair_image.jpg"
+    },
+    {
+       "id": 4,
+       "product": "DESK",
+       "price": "5000",
+       "image" : "/app/images/desk_image.jpg"
+    },
+    {
+       "id": 5,
+       "product": "WASHING MACHINE",
+       "price": "10000",
+       "image" : "/app/images/washingmachine_image.jpg"
+    },
+    {
+       "id": 6,
+       "product": "FAN",
+       "price": "3000",
+       "image" : "/app/images/fan_image.jpg"
+    },
+    {
+       "id": 7,
+       "product": "COLOR BOX",
+       "price": "600",
+       "image" : "/app/images/colorbox_image.jpg"
+    }
+ ]
